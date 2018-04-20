@@ -11,8 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Bees
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-uOfMGkqBFioleinghejC05u0NhwFugT7YoggNE17gYcAd3Lkg)
+## Importance of Bees
 ### Header 3
 
 - Bulleted
